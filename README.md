@@ -1,5 +1,4 @@
-# eeg-data-balance
-The role of data balancing for emotion classification using EEG signals
+# The role of data balancing for emotion classification using EEG signals
 
 This repository has some data and code used in the paper with the same title presented in International Conference on Digital Signal Processing, 2016.
 
